@@ -1,8 +1,20 @@
 # 👋 Hi, I'm Sadananda Krishna Hegde
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadananda-hegde-64994825a/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/sadananda-hegde)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sadanandahonnavar@gmail.com)
+<a href="https://www.linkedin.com/in/sadananda-hegde/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="20"/>
+</a>
+
+<a href="https://github.com/sadananda_hegde" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="github" width="20" height="20" style="background-color:white; padding:5px; border-radius:5px;"/>
+</a>
+
+
+
+
+<a href="mailto:sadanandahonnavar@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="gmail" width="20" height="20"/>
+</a>
+
 
 🎓 **AI & ML Undergrad @ UVCE, Bangalore**  
 💻 Passionate about full-stack development, problem-solving, and clean code.  
