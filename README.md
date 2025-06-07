@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/sadananda_hegde" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="github" width="20" height="20" style="background-color:white; padding:5px; border-radius:5px;"/>
+  <img src="https://img.icons8.com/windows/50/ffffff/github.png" alt="github" width="20" height="20" style="background-color:#181717; padding:5px; border-radius:5px;"/>
 </a>
 
 
